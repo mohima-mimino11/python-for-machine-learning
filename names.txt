@@ -1,0 +1,6 @@
+aLiCe
+ bob 
+ALICE
+  CHarlie 
+bob
+dave
